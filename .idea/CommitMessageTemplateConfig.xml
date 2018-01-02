@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CommitMessageTemplateConfig">
+    <option name="manualTemplate" value="If applied, this commit will...&#10;&#10;Why is this change needed?&#10;    Prior to this change,&#10;&#10;&#10;How does it address the issue?&#10;    This change&#10;&#10;&#10;Provide links to any relevant tickets, articles or other resources" />
+    <option name="radioState" value="false" />
+    <option name="templateFilePath" value="C:\CommitTemplate.txt" />
+  </component>
+</project>
